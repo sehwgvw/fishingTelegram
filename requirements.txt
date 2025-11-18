@@ -1,0 +1,12 @@
+pyrogram>=2.0.0
+tgcrypto>=1.2.5
+aiohttp>=3.8.0
+sqlite3
+logging
+asyncio
+hashlib
+shutil
+datetime
+random
+json
+os
